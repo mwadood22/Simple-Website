@@ -1,0 +1,35 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbar{
+    display: none;
+}
+.navbar img{
+    display: none;
+}
+footer{
+    display: none;
+}
+.background img{
+    display: none;
+}
+.formCont{
+border: none;
+}
+#top{
+    text-shadow: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.map img{
+    display: none;
+}
+.sitemap h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: none;
+}
+.about img{
+    display: none;
+}
+.gallery img{
+    display: none;
+}
